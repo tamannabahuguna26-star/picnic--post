@@ -1,0 +1,46 @@
+body {
+    background-image: url("images/p.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#heading {
+    color: orangered;
+    font-size: 35px;
+    text-align: center;
+}
+
+#heading2 {
+    color: lightcoral;
+    font-size: 30px;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+    padding: 0;
+}
+
+#Summer {
+    color: orangered;
+    font-size: 50px;
+    text-align: center;
+}
+
+#Picnic {
+    color: dodgerblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+#para {
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+}
